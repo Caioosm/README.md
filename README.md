@@ -21,7 +21,7 @@
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/Caioosm">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Caioosm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioosm&layout=compact&theme=vue-dark"/>
+<!--     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioosm&layout=compact&theme=vue-dark"/> -->
   </a>
 </div>
     
